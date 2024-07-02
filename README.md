@@ -17,6 +17,5 @@ I've developed a Google Colab Jupyter Notebook that takes the discount CSV file 
 - **Increased Employee Satisfaction:** Enhanced product visualization fosters a more positive user experience with the discount program.
 - **Enhanced Program Engagement:** Clearer product representation through images results in increased program engagement from employees.
 
-
-### Disclaimer
+## Disclaimer
 Data and solution details are anonymized for privacy reasons. This project focuses on publicly available information regarding past-season stock.
